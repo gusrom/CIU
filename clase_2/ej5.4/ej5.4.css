@@ -1,0 +1,58 @@
+.imperio{
+    background-color: red;
+}
+
+.rebelde{
+    background-color: blue;
+}
+
+#darthVader{
+    font-size: large;
+}
+
+#luke{
+    font-style: italic;
+}
+
+.soldados1{
+    border: 2px dotted;
+}
+
+.soldados2{
+    letter-spacing: 3px;
+}
+
+.unidadesDeApoyo{
+    text-align: center;
+}
+
+.naves{
+    text-transform: uppercase;
+}
+
+p{
+    font-size: 10%;
+}
+p{
+    font-size: 400%;
+}
+#imperio *{
+    background-color: black;
+    color: blue;
+}
+
+#rebelde *{
+    background-color: #ffa500;
+    color: rgb(255,255,255);
+}
+
+#darth{
+    font-size: x-large;
+}
+
+#lukeSky{
+    font-size: x-large;
+}
+#originales{
+    font-size: 800%;
+}
